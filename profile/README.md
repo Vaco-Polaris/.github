@@ -1,1 +1,1 @@
-Polaris 팀 레포지토리입니다.
+Polaris Team repository.
